@@ -3,7 +3,7 @@
 
 ## Overview
 
-Eight Puzzle is a game where goal is to move tiles to get desired order of tiles. Programmed in Python.
+Eight Puzzle is a game where the goal is to move tiles to get desired order of tiles. Programmed in Python.
 
 ## How to use 
 
